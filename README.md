@@ -1,17 +1,31 @@
-# IS 436 – Lost & Found System
+# IS 436 – Foosball Login Project
+
+## Course
+IS 436 – Structured Systems Analysis and Design  
+Instructor: Shiva Sharma  
 
 ## Team Members
-- Wilson Zhang – Project Manager
-- Michael Thomas – QA
-- Mete Gorgulu – Software Engineer
-- Therisa Phan – UI/UX
-- Justin Medina – Systems Analyst
+- Wilson Zhang  
+- Michael Thomas  
+- Mete Gorgulu  
+- Therisa Phan  
+- Justin Medina  
 
-## Project Objective
-To design and implement a secure campus-wide lost and found management system with authentication, automated matching, and centralized tracking.
+## Project Overview
+This repository contains the GitHub setup and project artifacts for the foosball.com login use case.
 
-## Deliverables
-- Deliverable 1 – System Request
-- Deliverable 2 – Analysis Models
-- Deliverable 3 – Design Models
-- Deliverable 4 – Implementation
+The project includes:
+- Individual team member HTML files
+- Login Use Case Diagram
+- GitHub Project Board with user stories
+- Agile task tracking (Backlog, To Do, In Progress, Review/Test, Done)
+
+## Login Use Case
+The system models a user logging into foosball.com with the following actions:
+- Enter Username  
+- Enter Password  
+- Click Login  
+- Validate Credentials  
+- Display Error Message (if invalid)  
+- Grant Access (if valid)
+
